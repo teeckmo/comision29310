@@ -5,3 +5,7 @@
 body{
     background-color: aquamarine;
 }
+h2{
+    text-transform: uppercase;
+    color: red;
+}
